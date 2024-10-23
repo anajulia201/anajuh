@@ -1,0 +1,9 @@
+body{
+    color:rgb(10, 60, 223);
+    background-color: black;
+}
+
+header{
+
+    border-bottom: solid 2px pink;
+}
